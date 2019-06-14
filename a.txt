@@ -1,2 +1,2 @@
 hello world,wzh
-我是收到hello
+你好,我收到了
